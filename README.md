@@ -117,7 +117,7 @@ The result is a commerce ecosystem that delivers better customer satisfaction wh
 
 ## Final Thoughts
 
-Omnichannel commerce is no longer optional—it's becoming the standard for modern retail. As customer expectations continue to evolve, businesses need technology that connects every interaction into one seamless experience.
+Omnichannel commerce is no longer optional it's becoming the standard for modern retail. As customer expectations continue to evolve, businesses need technology that connects every interaction into one seamless experience.
 
 AI-powered omnichannel platforms enable organizations to automate operations, personalize customer journeys, optimize inventory, and expand across multiple sales channels without increasing complexity.
 
