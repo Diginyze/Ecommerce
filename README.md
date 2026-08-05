@@ -125,6 +125,3 @@ For businesses looking to scale in today's competitive digital marketplace, adop
 
 ---
 
-### Keywords
-
-`AI eCommerce` `Omnichannel Commerce` `Digital Commerce` `Retail Technology` `AI Personalization` `Inventory Management` `Multi-Channel Selling` `Customer Experience` `Marketplace Integration` `Cloud Commerce`
