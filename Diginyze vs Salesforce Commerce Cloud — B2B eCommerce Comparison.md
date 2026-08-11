@@ -83,14 +83,14 @@ Diginyze consolidates commerce, CRM, ERP, AI, and analytics into a single platfo
 
 ## Diginyze Native Capabilities
 
-### RFQ — Request for Quote
-Buyers request custom quotes directly through the portal. Sellers respond with personalized pricing, attach terms, and convert quotes to orders — all within the same platform.
+### RFQ  Request for Quote
+Buyers request custom quotes directly through the portal. Sellers respond with personalized pricing, attach terms, and convert quotes to orders  all within the same platform.
 
 ### B2B Buyer Portals
 Dedicated portals per B2B customer, including company-specific catalogs, saved order lists, approval workflows, and account-level purchase history.
 
 ### Sales Representative Management
-Native rep management, territory assignment, and commission tracking — functionality that otherwise requires a full Salesforce Sales Cloud subscription.
+Native rep management, territory assignment, and commission tracking  functionality that otherwise requires a full Salesforce Sales Cloud subscription.
 
 ---
 
@@ -174,7 +174,7 @@ A genuine B2B eCommerce platform should support:
 | RFQ / Quote Management | Native, fully integrated | Available (complex setup) | Diginyze |
 | Customer-Group Pricing | Built-in | Configurable | Tie |
 | Purchase Order Terms | Native | Requires configuration | Diginyze |
-| Built-in B2B CRM | Yes — 360° profiles | Requires Salesforce CRM ($$) | Diginyze |
+| Built-in B2B CRM | Yes  360° profiles | Requires Salesforce CRM ($$) | Diginyze |
 | Built-in ERP | Yes | No (SAP/Oracle needed) | Diginyze |
 | AI Personalization | Native ML engine | Einstein AI (add-on cost) | Diginyze |
 | AI Chatbot | BOT-AMI (included) | Einstein Bot (extra cost) | Diginyze |
