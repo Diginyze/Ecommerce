@@ -102,13 +102,13 @@ Native rep management, territory assignment, and commission tracking — functio
 | Wholesale Distribution | Multi-warehouse, freight management, net terms |
 | Healthcare Supply | Compliance, restricted catalogs, account-based pricing |
 | Food & Beverage | Route management, rep ordering, seasonal pricing |
-| Building Materials | Project-based ordering, contractor accounts, quote management |
+| Building Materials | Project based ordering, contractor accounts, quote management |
 
 ---
 
 ## Summary
 
-Salesforce Commerce Cloud is built for enterprises with dedicated Salesforce teams and large IT budgets. Diginyze targets growing B2B businesses that need equivalent capabilities — RFQ, CRM, ERP, native AI, omnichannel — without the multi-vendor implementation cost.
+Salesforce Commerce Cloud is built for enterprises with dedicated Salesforce teams and large IT budgets. Diginyze targets growing B2B businesses that need equivalent capabilities  RFQ, CRM, ERP, native AI, omnichannel — without the multi vendor implementation cost.
 
 ---
 
@@ -199,14 +199,14 @@ SFCC's core cost driver is ecosystem dependency. A full B2B implementation typic
 | Salesforce certified developers | $150–$250 / hour |
 | **Estimated Year 1 Total** | **$2M–$5M** |
 
-Diginyze consolidates commerce, CRM, ERP, AI, and analytics into a single platform — no separate licenses or integration layer required.
+Diginyze consolidates commerce, CRM, ERP, AI, and analytics into a single platform  no separate licenses or integration layer required.
 
 ---
 
 ## Diginyze Native Capabilities
 
 ### RFQ — Request for Quote
-Buyers request custom quotes directly through the portal. Sellers respond with personalized pricing, attach terms, and convert quotes to orders — all within the same platform.
+Buyers request custom quotes directly through the portal. Sellers respond with personalized pricing, attach terms, and convert quotes to orders  all within the same platform.
 
 ### B2B Buyer Portals
 Dedicated portals per B2B customer, including company-specific catalogs, saved order lists, approval workflows, and account-level purchase history.
@@ -230,7 +230,7 @@ Native rep management, territory assignment, and commission tracking — functio
 
 ## Summary
 
-Salesforce Commerce Cloud is built for enterprises with dedicated Salesforce teams and large IT budgets. Diginyze targets growing B2B businesses that need equivalent capabilities — RFQ, CRM, ERP, native AI, omnichannel — without the multi-vendor implementation cost.
+Salesforce Commerce Cloud is built for enterprises with dedicated Salesforce teams and large IT budgets. Diginyze targets growing B2B businesses that need equivalent capabilities  RFQ, CRM, ERP, native AI, omnichannel  without the multi-vendor implementation cost.
 
 ---
 
