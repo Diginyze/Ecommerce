@@ -1,23 +1,12 @@
 # Diginyze vs Salesforce Commerce Cloud  B2B eCommerce Comparison
 
 > A feature and cost comparison for teams evaluating B2B eCommerce platforms.
-
-**Category:** eCommerce / B2B Platforms
-**Comparison type:** Feature + Total Cost of Ownership
-**Last updated:** 2026
+** eCommerce / B2B Platforms
+** Feature + Total Cost of Ownership
+** 2026
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Core B2B Requirements](#core-b2b-requirements)
-- [Feature Comparison](#feature-comparison)
-- [Cost Breakdown: The Salesforce Ecosystem](#cost-breakdown-the-salesforce-ecosystem)
-- [Diginyze Native Capabilities](#diginyze-native-capabilities)
-- [Best-Fit Industries](#best-fit-industries)
-- [Summary](#summary)
-- [Resources](#resources)
 
 ---
 
@@ -83,7 +72,7 @@ Diginyze consolidates commerce, CRM, ERP, AI, and analytics into a single platfo
 
 ## Diginyze Native Capabilities
 
-### RFQ  Request for Quote
+### RFQ Request for Quote
 Buyers request custom quotes directly through the portal. Sellers respond with personalized pricing, attach terms, and convert quotes to orders  all within the same platform.
 
 ### B2B Buyer Portals
@@ -94,7 +83,7 @@ Native rep management, territory assignment, and commission tracking  functional
 
 ---
 
-## Best-Fit Industries
+## Best Fit Industries
 
 | Industry | Key Needs |
 |---|---|
