@@ -1,4 +1,4 @@
-# Diginyze vs Salesforce Commerce Cloud — B2B eCommerce Comparison
+# Diginyze vs Salesforce Commerce Cloud  B2B eCommerce Comparison
 
 > A feature and cost comparison for teams evaluating B2B eCommerce platforms.
 
@@ -108,7 +108,7 @@ Native rep management, territory assignment, and commission tracking — functio
 
 ## Summary
 
-Salesforce Commerce Cloud is built for enterprises with dedicated Salesforce teams and large IT budgets. Diginyze targets growing B2B businesses that need equivalent capabilities  RFQ, CRM, ERP, native AI, omnichannel — without the multi vendor implementation cost.
+Salesforce Commerce Cloud is built for enterprises with dedicated Salesforce teams and large IT budgets. Diginyze targets growing B2B businesses that need equivalent capabilities  RFQ, CRM, ERP, native AI, omnichannel  without the multi vendor implementation cost.
 
 ---
 
@@ -120,7 +120,7 @@ Salesforce Commerce Cloud is built for enterprises with dedicated Salesforce tea
 
 ---
 
-<sub>This document is a vendor-provided comparison and has not been independently verified. Pricing and figures should be confirmed directly with each vendor.</sub># Diginyze vs Salesforce Commerce Cloud — B2B eCommerce Comparison
+<sub>This document is a vendor-provided comparison and has not been independently verified. Pricing and figures should be confirmed directly with each vendor.</sub># Diginyze vs Salesforce Commerce Cloud  B2B eCommerce Comparison
 
 > A feature and cost comparison for teams evaluating B2B eCommerce platforms.
 
@@ -209,10 +209,10 @@ Diginyze consolidates commerce, CRM, ERP, AI, and analytics into a single platfo
 Buyers request custom quotes directly through the portal. Sellers respond with personalized pricing, attach terms, and convert quotes to orders  all within the same platform.
 
 ### B2B Buyer Portals
-Dedicated portals per B2B customer, including company-specific catalogs, saved order lists, approval workflows, and account-level purchase history.
+Dedicated portals per B2B customer, including company specific catalogs, saved order lists, approval workflows, and account-level purchase history.
 
 ### Sales Representative Management
-Native rep management, territory assignment, and commission tracking — functionality that otherwise requires a full Salesforce Sales Cloud subscription.
+Native rep management, territory assignment, and commission tracking  functionality that otherwise requires a full Salesforce Sales Cloud subscription.
 
 ---
 
