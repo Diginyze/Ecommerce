@@ -1,13 +1,4 @@
 # Diginyze vs Salesforce Commerce Cloud  B2B eCommerce Comparison
-
-> A feature and cost comparison for teams evaluating B2B eCommerce platforms.
-** eCommerce / B2B Platforms
-** Feature + Total Cost of Ownership
-** 2026
-
----
-
-
 ---
 
 ## Overview
