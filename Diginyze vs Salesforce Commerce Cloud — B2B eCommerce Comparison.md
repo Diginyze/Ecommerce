@@ -95,7 +95,8 @@ Native rep management, territory assignment, and commission tracking  functional
 
 ---
 
-<sub>This document is a vendor-provided comparison and has not been independently verified. Pricing and figures should be confirmed directly with each vendor.</sub># Diginyze vs Salesforce Commerce Cloud  B2B eCommerce Comparison
+<sub>This document is a vendor-provided comparison and has not been independently verified. Pricing and figures should be confirmed directly with each vendor.</sub>
+# Diginyze vs Salesforce Commerce Cloud  B2B eCommerce Comparison
 
 > A feature and cost comparison for teams evaluating B2B eCommerce platforms.
 
