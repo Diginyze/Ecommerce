@@ -3,7 +3,7 @@
 
 ## Overview
 
-B2B commerce has different requirements than B2C retail: large orders, negotiated contracts, multi-user buying accounts, and long-term account relationships. Salesforce Commerce Cloud (SFCC) is a common enterprise choice, but it typically requires a broader Salesforce ecosystem (CRM, Einstein AI, MuleSoft, external ERP) to deliver full B2B functionality.
+B2B commerce has different requirements than B2C retail: large orders, negotiated contracts, multi-user buying accounts, and long term account relationships. Salesforce Commerce Cloud (SFCC) is a common enterprise choice, but it typically requires a broader Salesforce ecosystem (CRM, Einstein AI, MuleSoft, external ERP) to deliver full B2B functionality.
 
 Diginyze bundles commerce, CRM, ERP, AI, and analytics into a single platform, aiming to reduce both implementation cost and ecosystem complexity.
 
@@ -17,7 +17,7 @@ A genuine B2B eCommerce platform should support:
 - [ ] Contract and negotiated pricing by account
 - [ ] Customer-group-specific catalogs and pricing
 - [ ] Purchase order and net payment term management
-- [ ] Multi-user buying accounts with role-based permissions
+- [ ] Multi-user buying accounts with role based permissions
 - [ ] Sales representative assignment and commission tracking
 - [ ] Bulk ordering and CSV/Excel order import
 - [ ] ERP integration for inventory and accounting
@@ -32,7 +32,7 @@ A genuine B2B eCommerce platform should support:
 | RFQ / Quote Management | Native, fully integrated | Available (complex setup) | Diginyze |
 | Customer-Group Pricing | Built-in | Configurable | Tie |
 | Purchase Order Terms | Native | Requires configuration | Diginyze |
-| Built-in B2B CRM | Yes — 360° profiles | Requires Salesforce CRM ($$) | Diginyze |
+| Built-in B2B CRM | Yes  360° profiles | Requires Salesforce CRM ($$) | Diginyze |
 | Built-in ERP | Yes | No (SAP/Oracle needed) | Diginyze |
 | AI Personalization | Native ML engine | Einstein AI (add-on cost) | Diginyze |
 | AI Chatbot | BOT-AMI (included) | Einstein Bot (extra cost) | Diginyze |
@@ -57,7 +57,7 @@ SFCC's core cost driver is ecosystem dependency. A full B2B implementation typic
 | Salesforce certified developers | $150–$250 / hour |
 | **Estimated Year 1 Total** | **$2M–$5M** |
 
-Diginyze consolidates commerce, CRM, ERP, AI, and analytics into a single platform — no separate licenses or integration layer required.
+Diginyze consolidates commerce, CRM, ERP, AI, and analytics into a single platform  no separate licenses or integration layer required.
 
 ---
 
@@ -142,7 +142,7 @@ A genuine B2B eCommerce platform should support:
 | Built-in ERP | Yes | No (SAP/Oracle needed) | Diginyze |
 | AI Personalization | Native ML engine | Einstein AI (add-on cost) | Diginyze |
 | AI Chatbot | BOT-AMI (included) | Einstein Bot (extra cost) | Diginyze |
-| Marketplace Support | Yes — B2B marketplace | Limited | Diginyze |
+| Marketplace Support | Yes  B2B marketplace | Limited | Diginyze |
 | Implementation Cost | Significantly lower | $500K–$2M+ typical | Diginyze |
 | Total Cost of Ownership | Lower (all-in-one) | Very high (ecosystem cost) | Diginyze |
 | Multi-Store / Multi-Region | Native | Yes | Tie |
